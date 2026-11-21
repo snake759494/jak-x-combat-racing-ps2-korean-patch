@@ -1,0 +1,25 @@
+﻿# 게임 원본·산출물 (배포하지 않음)
+*.iso
+*.xdelta
+*.p2s
+work/
+emu/
+build/
+shots/
+
+# 원문 목록 (사용자 원본에서 생성, 배포하지 않음)
+translation/src_*.tsv
+translation/parts/
+translation/allowed.json
+
+# 글꼴·외부 실행 파일·이미지
+*.ttf
+*.otf
+*.exe
+*.dll
+*.png
+*.zip
+
+# 파이썬
+__pycache__/
+*.pyc

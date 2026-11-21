@@ -1,0 +1,23 @@
+{
+ "version": "v1.0",
+ "date": "2026-11-21",
+ "game": "Jak X: Combat Racing (North America, v2.00) / SCUS-97429 / PS2",
+ "xdelta_options": "xdelta3 -e -0 -S none -A (no compression, no secondary compression, no application header)",
+ "files": [
+  {
+   "target": "Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru) (v2.00).iso",
+   "asset": "Jak_X_Combat_Racing_PS2_KO_v1.0.xdelta",
+   "asset_size": 7203760,
+   "asset_md5": "289bd488e9ef46d0fb838f24314ef07c",
+   "asset_sha256": "24ca17ca3d54b6f3e6ec705f2328ce3918f3d6938dad597e6e97de3a2525a89f",
+   "source_size": 4662296576,
+   "source_md5": "05ed20ea58cf6c410314d1fd1905c002",
+   "source_sha1": "689089f320c6f8b7e33c7797ae4d04f4b0f2083c",
+   "source_sha256": "0e106c1f974bc85e8a04b90d1ca67ab06733a8ca4ca00f6110797a7538df37f8",
+   "output_size": 4662296576,
+   "output_md5": "e89420b5a69a63028c922be47b298383",
+   "output_sha1": "03c4cc37ae198959e4b35b2207f7a44ec4373b8f",
+   "output_sha256": "9081e589ef065a082683912db4ec3bc08c980411cb7538397c1702e1f8ae91eb"
+  }
+ ]
+}
